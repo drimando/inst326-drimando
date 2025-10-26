@@ -1,1 +1,13 @@
 Dash Rimando
+Section 301
+
+This week I used AI to help me clarify how class methods work. I asked it
+to provide me examples of when to use @classmethod instead of regualar method, 
+how cls works inside a class method, etc. (see link to see the convo). 
+Like I said in previous weeks, this helps me understand more clearly since I'm
+unfamiliar and see how I can apply them with practice/future projects.
+
+https://chatgpt.com/share/68fe99b0-a268-800f-b923-22a45a853d2a
+
+I did not use AI to complete any of the exercise questions. It was just to serve
+as a small guide to enhance my understanding.
