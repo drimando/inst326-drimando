@@ -1,0 +1,10 @@
+Dash Rimando
+Section 301
+
+This week I used AI to break down on how abstract properties can change a class design
+and ask it to provide examples. This is so that I can understand the structure in order to 
+not get lost in the code. I also asked it to show the different ways to design methods that
+allows subclasses to follow the same output pattern. This helped me think about making
+cleaner/consistent designs. The link below is the conversation, I did not use Ai to debug
+or help assist with this weeks exercise.
+https://chatgpt.com/share/691b5f15-c448-800f-81bd-d657732b127e
